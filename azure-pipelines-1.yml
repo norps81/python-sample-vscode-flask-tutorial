@@ -38,5 +38,5 @@ steps:
   inputs:
     scriptSource: 'inline'
     script: |
-      print('Hello world 1')
-      print('Hello world 2')
+      print('Hello 1')
+      print('Hello Hello 2')
